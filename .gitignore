@@ -159,4 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-las_sample.las
+las_data.las
+test.json
+notebook.ipynb
