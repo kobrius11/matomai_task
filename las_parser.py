@@ -1,12 +1,23 @@
 import laspy
 import numpy as np
 
-def read_las_data(file_path: str):
+FILE_PATH = 'las_data.las'
+
+def read_las_data(file_path: str) -> np.ndarray:
+    """
+    Reads las file https://en.wikipedia.org/wiki/LAS_file_format
+    returns Point data records
+
+    Args:
+        file_path (str): path to a file 
+
+    Returns:
+        np.ndarray: 3-dimensional array
+    """
     las_data = laspy.read(file_path)
     return las_data.xyz
 
-points = read_las_data('las_data.las')
 
 if __name__ == '__main__':
-    print(points)
+    print(read_las_data(FILE_PATH))
 

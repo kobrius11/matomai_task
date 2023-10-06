@@ -1,0 +1,656 @@
+0: Internal node at depth 0 has 7 children and 20985999 points ([2.74300e+06 1.23400e+06 1.62892e+03])
+    0: Internal node at depth 1 has 6 children and 4954263 points ([2.74300e+06 1.23400e+06 1.62892e+03])
+        0: Internal node at depth 2 has 2 children and 181922 points ([2.74300e+06 1.23400e+06 1.62892e+03])
+            4: Internal node at depth 3 has 2 children and 20226 points ([2.74300000e+06 1.23400000e+06 1.75516874e+03])
+                4: Leaf node at depth 4 has 22 points with origin [2.74300000e+06 1.23400000e+06 1.81829311e+03]
+                5: Leaf node at depth 4 has 20204 points with origin [2.74306312e+06 1.23400000e+06 1.81829311e+03]
+
+            5: Internal node at depth 3 has 3 children and 161696 points ([2.74312625e+06 1.23400000e+06 1.75516874e+03])
+                4: Leaf node at depth 4 has 70477 points with origin [2.74312625e+06 1.23400000e+06 1.81829311e+03]
+                5: Leaf node at depth 4 has 86021 points with origin [2.74318937e+06 1.23400000e+06 1.81829311e+03]
+                7: Leaf node at depth 4 has 5198 points with origin [2.74318937e+06 1.23406312e+06 1.81829311e+03]
+
+        1: Internal node at depth 2 has 2 children and 513234 points ([2.7432525e+06 1.2340000e+06 1.6289200e+03])
+            4: Internal node at depth 3 has 4 children and 250001 points ([2.74325250e+06 1.23400000e+06 1.75516874e+03])
+                4: Leaf node at depth 4 has 81989 points with origin [2.74325250e+06 1.23400000e+06 1.81829311e+03]
+                5: Leaf node at depth 4 has 83867 points with origin [2.74331562e+06 1.23400000e+06 1.81829311e+03]
+                6: Leaf node at depth 4 has 24057 points with origin [2.74325250e+06 1.23406312e+06 1.81829311e+03]
+                7: Leaf node at depth 4 has 60088 points with origin [2.74331562e+06 1.23406312e+06 1.81829311e+03]
+
+            5: Internal node at depth 3 has 6 children and 263233 points ([2.74337875e+06 1.23400000e+06 1.75516874e+03])
+                0: Leaf node at depth 4 has 1795 points with origin [2.74337875e+06 1.23400000e+06 1.75516874e+03]
+                1: Leaf node at depth 4 has 20568 points with origin [2.74344187e+06 1.23400000e+06 1.75516874e+03]
+                4: Leaf node at depth 4 has 89911 points with origin [2.74337875e+06 1.23400000e+06 1.81829311e+03]
+                5: Leaf node at depth 4 has 53747 points with origin [2.74344187e+06 1.23400000e+06 1.81829311e+03]
+                6: Leaf node at depth 4 has 45769 points with origin [2.74337875e+06 1.23406312e+06 1.81829311e+03]
+                7: Leaf node at depth 4 has 51443 points with origin [2.74344187e+06 1.23406312e+06 1.81829311e+03]
+        4: Internal node at depth 2 has 4 children and 1091789 points ([2.74300000e+06 1.23400000e+06 1.88141747e+03])
+            0: Internal node at depth 3 has 4 children and 279632 points ([2.74300000e+06 1.23400000e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 81211 points with origin [2.74300000e+06 1.23400000e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 50806 points with origin [2.74306312e+06 1.23400000e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 76635 points with origin [2.74300000e+06 1.23406312e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 70980 points with origin [2.74306312e+06 1.23406312e+06 1.88141747e+03]
+
+            1: Internal node at depth 3 has 4 children and 179930 points ([2.74312625e+06 1.23400000e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 18403 points with origin [2.74312625e+06 1.23400000e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 4365 points with origin [2.74318937e+06 1.23400000e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 80262 points with origin [2.74312625e+06 1.23406312e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 76900 points with origin [2.74318937e+06 1.23406312e+06 1.88141747e+03]
+
+            2: Internal node at depth 3 has 7 children and 316962 points ([2.74300000e+06 1.23412625e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 59739 points with origin [2.74300000e+06 1.23412625e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 83599 points with origin [2.74306312e+06 1.23412625e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 337 points with origin [2.74300000e+06 1.23418937e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 15954 points with origin [2.74306312e+06 1.23418937e+06 1.88141747e+03]
+                4: Leaf node at depth 4 has 16258 points with origin [2.74300000e+06 1.23412625e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 84834 points with origin [2.74300000e+06 1.23418937e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 56241 points with origin [2.74306312e+06 1.23418937e+06 1.94454184e+03]
+
+            3: Internal node at depth 3 has 8 children and 315265 points ([2.74312625e+06 1.23412625e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 64819 points with origin [2.74312625e+06 1.23412625e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 76299 points with origin [2.74318937e+06 1.23412625e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 28542 points with origin [2.74312625e+06 1.23418937e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 3706 points with origin [2.74318937e+06 1.23418937e+06 1.88141747e+03]
+                4: Leaf node at depth 4 has 616 points with origin [2.74312625e+06 1.23412625e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 8199 points with origin [2.74318937e+06 1.23412625e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 63047 points with origin [2.74312625e+06 1.23418937e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 70037 points with origin [2.74318937e+06 1.23418937e+06 1.94454184e+03]
+
+        5: Internal node at depth 2 has 4 children and 805842 points ([2.74325250e+06 1.23400000e+06 1.88141747e+03])
+            0: Internal node at depth 3 has 2 children and 115972 points ([2.74325250e+06 1.23400000e+06 1.88141747e+03])
+                2: Leaf node at depth 4 has 74176 points with origin [2.74325250e+06 1.23406312e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 41796 points with origin [2.74331562e+06 1.23406312e+06 1.88141747e+03]
+                
+            1: Internal node at depth 3 has 2 children and 51875 points ([2.74337875e+06 1.23400000e+06 1.88141747e+03])
+                2: Leaf node at depth 4 has 28822 points with origin [2.74337875e+06 1.23406312e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 23053 points with origin [2.74344187e+06 1.23406312e+06 1.88141747e+03]
+
+            2: Internal node at depth 3 has 8 children and 301204 points ([2.74325250e+06 1.23412625e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 88547 points with origin [2.74325250e+06 1.23412625e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 79133 points with origin [2.74331562e+06 1.23412625e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 107 points with origin [2.74325250e+06 1.23418937e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 8681 points with origin [2.74331562e+06 1.23418937e+06 1.88141747e+03]
+                4: Leaf node at depth 4 has 4018 points with origin [2.74325250e+06 1.23412625e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 718 points with origin [2.74331562e+06 1.23412625e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 61929 points with origin [2.74325250e+06 1.23418937e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 58071 points with origin [2.74331562e+06 1.23418937e+06 1.94454184e+03]
+            3: Internal node at depth 3 has 6 children and 336791 points ([2.74337875e+06 1.23412625e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 78965 points with origin [2.74337875e+06 1.23412625e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 90965 points with origin [2.74344187e+06 1.23412625e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 26102 points with origin [2.74337875e+06 1.23418937e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 26745 points with origin [2.74344187e+06 1.23418937e+06 1.88141747e+03]
+                6: Leaf node at depth 4 has 49338 points with origin [2.74337875e+06 1.23418937e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 64676 points with origin [2.74344187e+06 1.23418937e+06 1.94454184e+03]
+        6: Internal node at depth 2 has 7 children and 1189648 points ([2.74300000e+06 1.23425250e+06 1.88141747e+03])
+            0: Internal node at depth 3 has 4 children and 170130 points ([2.74300000e+06 1.23425250e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 71585 points with origin [2.74300000e+06 1.23425250e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 51342 points with origin [2.74306312e+06 1.23425250e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 46785 points with origin [2.74300000e+06 1.23431562e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 418 points with origin [2.74306312e+06 1.23431562e+06 1.94454184e+03]
+            1: Internal node at depth 3 has 4 children and 170287 points ([2.74312625e+06 1.23425250e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 74493 points with origin [2.74312625e+06 1.23425250e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 67587 points with origin [2.74318937e+06 1.23425250e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 1711 points with origin [2.74312625e+06 1.23431562e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 26496 points with origin [2.74318937e+06 1.23431562e+06 1.94454184e+03]
+            2: Internal node at depth 3 has 1 children and 1786 points ([2.74300000e+06 1.23437875e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 1786 points with origin [2.74300000e+06 1.23437875e+06 1.94454184e+03]
+            4: Internal node at depth 3 has 4 children and 165520 points ([2.74300000e+06 1.23425250e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 5392 points with origin [2.74300000e+06 1.23425250e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 42762 points with origin [2.74306312e+06 1.23425250e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 36903 points with origin [2.74300000e+06 1.23431562e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 80463 points with origin [2.74306312e+06 1.23431562e+06 2.00766621e+03]
+            5: Internal node at depth 3 has 3 children and 124008 points ([2.74312625e+06 1.23425250e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 2175 points with origin [2.74312625e+06 1.23425250e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 74272 points with origin [2.74312625e+06 1.23431562e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 47561 points with origin [2.74318937e+06 1.23431562e+06 2.00766621e+03]
+            6: Internal node at depth 3 has 4 children and 250203 points ([2.74300000e+06 1.23437875e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 67589 points with origin [2.74300000e+06 1.23437875e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 76424 points with origin [2.74306312e+06 1.23437875e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 51207 points with origin [2.74300000e+06 1.23444187e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 54983 points with origin [2.74306312e+06 1.23444187e+06 2.00766621e+03]
+            7: Internal node at depth 3 has 4 children and 307714 points ([2.74312625e+06 1.23437875e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 71238 points with origin [2.74312625e+06 1.23437875e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 75277 points with origin [2.74318937e+06 1.23437875e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 76869 points with origin [2.74312625e+06 1.23444187e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 84330 points with origin [2.74318937e+06 1.23444187e+06 2.00766621e+03]
+        7: Internal node at depth 2 has 7 children and 1171828 points ([2.74325250e+06 1.23425250e+06 1.88141747e+03])
+            0: Internal node at depth 3 has 4 children and 206109 points ([2.74325250e+06 1.23425250e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 69398 points with origin [2.74325250e+06 1.23425250e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 65082 points with origin [2.74331562e+06 1.23425250e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 34711 points with origin [2.74325250e+06 1.23431562e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 36918 points with origin [2.74331562e+06 1.23431562e+06 1.94454184e+03]
+            1: Internal node at depth 3 has 4 children and 198760 points ([2.74337875e+06 1.23425250e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 57161 points with origin [2.74337875e+06 1.23425250e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 67326 points with origin [2.74344187e+06 1.23425250e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 39351 points with origin [2.74337875e+06 1.23431562e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 34922 points with origin [2.74344187e+06 1.23431562e+06 1.94454184e+03]
+            2: Internal node at depth 3 has 1 children and 552 points ([2.74325250e+06 1.23437875e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 552 points with origin [2.74325250e+06 1.23437875e+06 1.94454184e+03]
+            4: Internal node at depth 3 has 2 children and 76057 points ([2.74325250e+06 1.23425250e+06 2.00766621e+03])
+                2: Leaf node at depth 4 has 35854 points with origin [2.74325250e+06 1.23431562e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 40203 points with origin [2.74331562e+06 1.23431562e+06 2.00766621e+03]
+            5: Internal node at depth 3 has 2 children and 63242 points ([2.74337875e+06 1.23425250e+06 2.00766621e+03])
+                2: Leaf node at depth 4 has 32788 points with origin [2.74337875e+06 1.23431562e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 30454 points with origin [2.74344187e+06 1.23431562e+06 2.00766621e+03]
+            6: Internal node at depth 3 has 6 children and 323259 points ([2.74325250e+06 1.23437875e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 82261 points with origin [2.74325250e+06 1.23437875e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 80706 points with origin [2.74331562e+06 1.23437875e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 81486 points with origin [2.74325250e+06 1.23444187e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 22780 points with origin [2.74331562e+06 1.23444187e+06 2.00766621e+03]
+                6: Leaf node at depth 4 has 654 points with origin [2.74325250e+06 1.23444187e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 55372 points with origin [2.74331562e+06 1.23444187e+06 2.07079058e+03]
+            7: Internal node at depth 3 has 6 children and 303849 points ([2.74337875e+06 1.23437875e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 77698 points with origin [2.74337875e+06 1.23437875e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 72066 points with origin [2.74344187e+06 1.23437875e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 55474 points with origin [2.74337875e+06 1.23444187e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 39903 points with origin [2.74344187e+06 1.23444187e+06 2.00766621e+03]
+                6: Leaf node at depth 4 has 26028 points with origin [2.74337875e+06 1.23444187e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 32680 points with origin [2.74344187e+06 1.23444187e+06 2.07079058e+03]
+    1: Internal node at depth 1 has 6 children and 5650728 points ([2.74350499e+06 1.23400000e+06 1.62892000e+03])
+        0: Internal node at depth 2 has 2 children and 531343 points ([2.74350499e+06 1.23400000e+06 1.62892000e+03])
+            4: Internal node at depth 3 has 6 children and 328284 points ([2.74350499e+06 1.23400000e+06 1.75516874e+03])
+                0: Leaf node at depth 4 has 21309 points with origin [2.74350499e+06 1.23400000e+06 1.75516874e+03]
+                1: Leaf node at depth 4 has 55751 points with origin [2.74356812e+06 1.23400000e+06 1.75516874e+03]
+                4: Leaf node at depth 4 has 56567 points with origin [2.74350499e+06 1.23400000e+06 1.81829311e+03]
+                5: Leaf node at depth 4 has 57948 points with origin [2.74356812e+06 1.23400000e+06 1.81829311e+03]
+                6: Leaf node at depth 4 has 61914 points with origin [2.74350499e+06 1.23406312e+06 1.81829311e+03]
+                7: Leaf node at depth 4 has 74795 points with origin [2.74356812e+06 1.23406312e+06 1.81829311e+03]
+            5: Internal node at depth 3 has 6 children and 203059 points ([2.74363124e+06 1.23400000e+06 1.75516874e+03])
+                0: Leaf node at depth 4 has 42469 points with origin [2.74363124e+06 1.23400000e+06 1.75516874e+03]
+                1: Leaf node at depth 4 has 880 points with origin [2.74369437e+06 1.23400000e+06 1.75516874e+03]
+                4: Leaf node at depth 4 has 70879 points with origin [2.74363124e+06 1.23400000e+06 1.81829311e+03]
+                5: Leaf node at depth 4 has 66701 points with origin [2.74369437e+06 1.23400000e+06 1.81829311e+03]
+                6: Leaf node at depth 4 has 22073 points with origin [2.74363124e+06 1.23406312e+06 1.81829311e+03]
+                7: Leaf node at depth 4 has 57 points with origin [2.74369437e+06 1.23406312e+06 1.81829311e+03]
+        1: Internal node at depth 2 has 2 children and 288697 points ([2.74375749e+06 1.23400000e+06 1.62892000e+03])
+            4: Internal node at depth 3 has 4 children and 172763 points ([2.74375749e+06 1.23400000e+06 1.75516874e+03])
+                4: Leaf node at depth 4 has 71076 points with origin [2.74375749e+06 1.23400000e+06 1.81829311e+03]
+                5: Leaf node at depth 4 has 90030 points with origin [2.74382062e+06 1.23400000e+06 1.81829311e+03]
+                6: Leaf node at depth 4 has 2391 points with origin [2.74375749e+06 1.23406312e+06 1.81829311e+03]
+                7: Leaf node at depth 4 has 9266 points with origin [2.74382062e+06 1.23406312e+06 1.81829311e+03]
+            5: Internal node at depth 3 has 2 children and 115934 points ([2.74388374e+06 1.23400000e+06 1.75516874e+03])
+                4: Leaf node at depth 4 has 67777 points with origin [2.74388374e+06 1.23400000e+06 1.81829311e+03]
+                5: Leaf node at depth 4 has 48157 points with origin [2.74394687e+06 1.23400000e+06 1.81829311e+03]
+        4: Internal node at depth 2 has 5 children and 1053025 points ([2.74350499e+06 1.23400000e+06 1.88141747e+03])
+            0: Internal node at depth 3 has 2 children and 49923 points ([2.74350499e+06 1.23400000e+06 1.88141747e+03])
+                2: Leaf node at depth 4 has 26511 points with origin [2.74350499e+06 1.23406312e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 23412 points with origin [2.74356812e+06 1.23406312e+06 1.88141747e+03]
+            1: Internal node at depth 3 has 5 children and 261760 points ([2.74363124e+06 1.23400000e+06 1.88141747e+03])
+                1: Leaf node at depth 4 has 43637 points with origin [2.74369437e+06 1.23400000e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 70376 points with origin [2.74363124e+06 1.23406312e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 32969 points with origin [2.74369437e+06 1.23406312e+06 1.88141747e+03]
+                6: Leaf node at depth 4 has 23539 points with origin [2.74363124e+06 1.23406312e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 91239 points with origin [2.74369437e+06 1.23406312e+06 1.94454184e+03]
+            2: Internal node at depth 3 has 6 children and 367096 points ([2.74350499e+06 1.23412625e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 84214 points with origin [2.74350499e+06 1.23412625e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 87579 points with origin [2.74356812e+06 1.23412625e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 24107 points with origin [2.74350499e+06 1.23418937e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 46285 points with origin [2.74356812e+06 1.23418937e+06 1.88141747e+03]
+                6: Leaf node at depth 4 has 68539 points with origin [2.74350499e+06 1.23418937e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 56372 points with origin [2.74356812e+06 1.23418937e+06 1.94454184e+03]
+            3: Internal node at depth 3 has 6 children and 240138 points ([2.74363124e+06 1.23412625e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 45521 points with origin [2.74363124e+06 1.23412625e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 6663 points with origin [2.74363124e+06 1.23418937e+06 1.88141747e+03]
+                4: Leaf node at depth 4 has 55039 points with origin [2.74363124e+06 1.23412625e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 47636 points with origin [2.74369437e+06 1.23412625e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 79295 points with origin [2.74363124e+06 1.23418937e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 5984 points with origin [2.74369437e+06 1.23418937e+06 1.94454184e+03]
+            7: Internal node at depth 3 has 4 children and 134108 points ([2.74363124e+06 1.23412625e+06 2.00766621e+03])
+                1: Leaf node at depth 4 has 46990 points with origin [2.74369437e+06 1.23412625e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 472 points with origin [2.74363124e+06 1.23418937e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 81207 points with origin [2.74369437e+06 1.23418937e+06 2.00766621e+03]
+                7: Leaf node at depth 4 has 5439 points with origin [2.74369437e+06 1.23418937e+06 2.07079058e+03]
+        5: Internal node at depth 2 has 6 children and 1272024 points ([2.74375749e+06 1.23400000e+06 1.88141747e+03])
+            0: Internal node at depth 3 has 6 children and 237768 points ([2.74375749e+06 1.23400000e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 37003 points with origin [2.74375749e+06 1.23400000e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 716 points with origin [2.74382062e+06 1.23400000e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 70237 points with origin [2.74375749e+06 1.23406312e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 90252 points with origin [2.74382062e+06 1.23406312e+06 1.88141747e+03]
+                6: Leaf node at depth 4 has 35878 points with origin [2.74375749e+06 1.23406312e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 3682 points with origin [2.74382062e+06 1.23406312e+06 1.94454184e+03]
+            1: Internal node at depth 3 has 4 children and 240907 points ([2.74388374e+06 1.23400000e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 23206 points with origin [2.74388374e+06 1.23400000e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 36369 points with origin [2.74394687e+06 1.23400000e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 105690 points with origin [2.74388374e+06 1.23406312e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 75642 points with origin [2.74394687e+06 1.23406312e+06 1.88141747e+03]
+            2: Internal node at depth 3 has 5 children and 195916 points ([2.74375749e+06 1.23412625e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 496 points with origin [2.74375749e+06 1.23412625e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 36959 points with origin [2.74382062e+06 1.23412625e+06 1.88141747e+03]
+                4: Leaf node at depth 4 has 44342 points with origin [2.74375749e+06 1.23412625e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 80168 points with origin [2.74382062e+06 1.23412625e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 33951 points with origin [2.74382062e+06 1.23418937e+06 1.94454184e+03]
+            3: Internal node at depth 3 has 7 children and 336033 points ([2.74388374e+06 1.23412625e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 86906 points with origin [2.74388374e+06 1.23412625e+06 1.88141747e+03]
+                1: Leaf node at depth 4 has 67097 points with origin [2.74394687e+06 1.23412625e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 482 points with origin [2.74394687e+06 1.23418937e+06 1.88141747e+03]
+                4: Leaf node at depth 4 has 3960 points with origin [2.74388374e+06 1.23412625e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 4794 points with origin [2.74394687e+06 1.23412625e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 93682 points with origin [2.74388374e+06 1.23418937e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 79112 points with origin [2.74394687e+06 1.23418937e+06 1.94454184e+03]
+            6: Internal node at depth 3 has 5 children and 253384 points ([2.74375749e+06 1.23412625e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 67800 points with origin [2.74375749e+06 1.23412625e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 4992 points with origin [2.74382062e+06 1.23412625e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 67289 points with origin [2.74375749e+06 1.23418937e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 81294 points with origin [2.74382062e+06 1.23418937e+06 2.00766621e+03]
+                6: Leaf node at depth 4 has 32009 points with origin [2.74375749e+06 1.23418937e+06 2.07079058e+03]
+            7: Internal node at depth 3 has 1 children and 8016 points ([2.74388374e+06 1.23412625e+06 2.00766621e+03])
+                2: Leaf node at depth 4 has 8016 points with origin [2.74388374e+06 1.23418937e+06 2.00766621e+03]
+        6: Internal node at depth 2 has 8 children and 1337931 points ([2.74350499e+06 1.23425250e+06 1.88141747e+03])
+            0: Internal node at depth 3 has 4 children and 270130 points ([2.74350499e+06 1.23425250e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 102582 points with origin [2.74350499e+06 1.23425250e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 89073 points with origin [2.74356812e+06 1.23425250e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 26385 points with origin [2.74350499e+06 1.23431562e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 52090 points with origin [2.74356812e+06 1.23431562e+06 1.94454184e+03]
+            1: Internal node at depth 3 has 4 children and 203777 points ([2.74363124e+06 1.23425250e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 82431 points with origin [2.74363124e+06 1.23425250e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 11154 points with origin [2.74369437e+06 1.23425250e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 102949 points with origin [2.74363124e+06 1.23431562e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 7243 points with origin [2.74369437e+06 1.23431562e+06 1.94454184e+03]
+            2: Internal node at depth 3 has 1 children and 683 points ([2.74350499e+06 1.23437875e+06 1.88141747e+03])
+                5: Leaf node at depth 4 has 683 points with origin [2.74356812e+06 1.23437875e+06 1.94454184e+03]
+            3: Internal node at depth 3 has 1 children and 24393 points ([2.74363124e+06 1.23437875e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 24393 points with origin [2.74363124e+06 1.23437875e+06 1.94454184e+03]
+            4: Internal node at depth 3 has 2 children and 71095 points ([2.74350499e+06 1.23425250e+06 2.00766621e+03])
+                2: Leaf node at depth 4 has 37525 points with origin [2.74350499e+06 1.23431562e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 33570 points with origin [2.74356812e+06 1.23431562e+06 2.00766621e+03]
+            5: Internal node at depth 3 has 6 children and 187296 points ([2.74363124e+06 1.23425250e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 239 points with origin [2.74363124e+06 1.23425250e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 96460 points with origin [2.74369437e+06 1.23425250e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 2766 points with origin [2.74363124e+06 1.23431562e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 84866 points with origin [2.74369437e+06 1.23431562e+06 2.00766621e+03]
+                5: Leaf node at depth 4 has 2123 points with origin [2.74369437e+06 1.23425250e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 842 points with origin [2.74369437e+06 1.23431562e+06 2.07079058e+03]
+            6: Internal node at depth 3 has 6 children and 268847 points ([2.74350499e+06 1.23437875e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 54626 points with origin [2.74350499e+06 1.23437875e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 77380 points with origin [2.74356812e+06 1.23437875e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 39910 points with origin [2.74350499e+06 1.23444187e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 42139 points with origin [2.74356812e+06 1.23444187e+06 2.00766621e+03]
+                6: Leaf node at depth 4 has 42149 points with origin [2.74350499e+06 1.23444187e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 12643 points with origin [2.74356812e+06 1.23444187e+06 2.07079058e+03]
+            7: Internal node at depth 3 has 6 children and 311710 points ([2.74363124e+06 1.23437875e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 71222 points with origin [2.74363124e+06 1.23437875e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 84632 points with origin [2.74369437e+06 1.23437875e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 59055 points with origin [2.74363124e+06 1.23444187e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 95152 points with origin [2.74369437e+06 1.23444187e+06 2.00766621e+03]
+                6: Leaf node at depth 4 has 1567 points with origin [2.74363124e+06 1.23444187e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 82 points with origin [2.74369437e+06 1.23444187e+06 2.07079058e+03]
+        7: Internal node at depth 2 has 6 children and 1167708 points ([2.74375749e+06 1.23425250e+06 1.88141747e+03])
+            1: Internal node at depth 3 has 4 children and 186929 points ([2.74388374e+06 1.23425250e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 48062 points with origin [2.74388374e+06 1.23425250e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 61378 points with origin [2.74394687e+06 1.23425250e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 9760 points with origin [2.74388374e+06 1.23431562e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 67729 points with origin [2.74394687e+06 1.23431562e+06 1.94454184e+03]
+            3: Internal node at depth 3 has 1 children and 265 points ([2.74388374e+06 1.23437875e+06 1.88141747e+03])
+                5: Leaf node at depth 4 has 265 points with origin [2.74394687e+06 1.23437875e+06 1.94454184e+03]
+            4: Internal node at depth 3 has 8 children and 344218 points ([2.74375749e+06 1.23425250e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 5743 points with origin [2.74375749e+06 1.23425250e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 48577 points with origin [2.74382062e+06 1.23425250e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 5183 points with origin [2.74375749e+06 1.23431562e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 32055 points with origin [2.74382062e+06 1.23431562e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 76747 points with origin [2.74375749e+06 1.23425250e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 44483 points with origin [2.74382062e+06 1.23425250e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 56992 points with origin [2.74375749e+06 1.23431562e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 74438 points with origin [2.74382062e+06 1.23431562e+06 2.07079058e+03]
+            5: Internal node at depth 3 has 4 children and 146851 points ([2.74388374e+06 1.23425250e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 67154 points with origin [2.74388374e+06 1.23425250e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 69337 points with origin [2.74388374e+06 1.23431562e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 8271 points with origin [2.74394687e+06 1.23431562e+06 2.00766621e+03]
+                6: Leaf node at depth 4 has 2089 points with origin [2.74388374e+06 1.23431562e+06 2.07079058e+03]
+            6: Internal node at depth 3 has 6 children and 193795 points ([2.74375749e+06 1.23437875e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 19931 points with origin [2.74375749e+06 1.23437875e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 20620 points with origin [2.74375749e+06 1.23444187e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 63520 points with origin [2.74375749e+06 1.23437875e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 52610 points with origin [2.74382062e+06 1.23437875e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 34734 points with origin [2.74375749e+06 1.23444187e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 2380 points with origin [2.74382062e+06 1.23444187e+06 2.07079058e+03]
+            7: Internal node at depth 3 has 7 children and 295650 points ([2.74388374e+06 1.23437875e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 55912 points with origin [2.74388374e+06 1.23437875e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 59272 points with origin [2.74394687e+06 1.23437875e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 23830 points with origin [2.74388374e+06 1.23444187e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 67220 points with origin [2.74394687e+06 1.23444187e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 27370 points with origin [2.74388374e+06 1.23437875e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 57317 points with origin [2.74388374e+06 1.23444187e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 4729 points with origin [2.74394687e+06 1.23444187e+06 2.07079058e+03]
+    2: Internal node at depth 1 has 5 children and 4064843 points ([2.74300000e+06 1.23450499e+06 1.62892000e+03])
+        2: Internal node at depth 2 has 1 children and 56 points ([2.74300000e+06 1.23475749e+06 1.62892000e+03])
+        4: Internal node at depth 2 has 4 children and 1108299 points ([2.74300000e+06 1.23450499e+06 1.88141747e+03])
+            4: Internal node at depth 3 has 4 children and 276682 points ([2.74300000e+06 1.23450499e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 67803 points with origin [2.74300000e+06 1.23450499e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 59761 points with origin [2.74306312e+06 1.23450499e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 84208 points with origin [2.74300000e+06 1.23456812e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 64910 points with origin [2.74306312e+06 1.23456812e+06 2.00766621e+03]
+            5: Internal node at depth 3 has 5 children and 264993 points ([2.74312625e+06 1.23450499e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 73661 points with origin [2.74312625e+06 1.23450499e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 78355 points with origin [2.74318937e+06 1.23450499e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 50534 points with origin [2.74312625e+06 1.23456812e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 60747 points with origin [2.74318937e+06 1.23456812e+06 2.00766621e+03]
+                7: Leaf node at depth 4 has 1696 points with origin [2.74318937e+06 1.23456812e+06 2.07079058e+03]
+            6: Internal node at depth 3 has 4 children and 293613 points ([2.74300000e+06 1.23463124e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 64844 points with origin [2.74300000e+06 1.23463124e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 71738 points with origin [2.74306312e+06 1.23463124e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 69893 points with origin [2.74300000e+06 1.23469437e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 87138 points with origin [2.74306312e+06 1.23469437e+06 2.00766621e+03]
+            7: Internal node at depth 3 has 7 children and 273011 points ([2.74312625e+06 1.23463124e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 55737 points with origin [2.74312625e+06 1.23463124e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 25425 points with origin [2.74318937e+06 1.23463124e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 47510 points with origin [2.74312625e+06 1.23469437e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 3749 points with origin [2.74318937e+06 1.23469437e+06 2.00766621e+03]
+                5: Leaf node at depth 4 has 37281 points with origin [2.74318937e+06 1.23463124e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 25624 points with origin [2.74312625e+06 1.23469437e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 77685 points with origin [2.74318937e+06 1.23469437e+06 2.07079058e+03]
+        5: Internal node at depth 2 has 4 children and 1316806 points ([2.74325250e+06 1.23450499e+06 1.88141747e+03])
+            4: Internal node at depth 3 has 6 children and 322163 points ([2.74325250e+06 1.23450499e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 39112 points with origin [2.74325250e+06 1.23450499e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 34447 points with origin [2.74325250e+06 1.23456812e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 28989 points with origin [2.74325250e+06 1.23450499e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 88039 points with origin [2.74331562e+06 1.23450499e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 49762 points with origin [2.74325250e+06 1.23456812e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 81814 points with origin [2.74331562e+06 1.23456812e+06 2.07079058e+03]
+            5: Internal node at depth 3 has 4 children and 334441 points ([2.74337875e+06 1.23450499e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 80081 points with origin [2.74337875e+06 1.23450499e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 89549 points with origin [2.74344187e+06 1.23450499e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 88259 points with origin [2.74337875e+06 1.23456812e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 76552 points with origin [2.74344187e+06 1.23456812e+06 2.07079058e+03]
+            6: Internal node at depth 3 has 5 children and 312599 points ([2.74325250e+06 1.23463124e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 173 points with origin [2.74325250e+06 1.23463124e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 81733 points with origin [2.74325250e+06 1.23463124e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 83584 points with origin [2.74331562e+06 1.23463124e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 61316 points with origin [2.74325250e+06 1.23469437e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 85793 points with origin [2.74331562e+06 1.23469437e+06 2.07079058e+03]
+            7: Internal node at depth 3 has 4 children and 347603 points ([2.74337875e+06 1.23463124e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 88280 points with origin [2.74337875e+06 1.23463124e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 91722 points with origin [2.74344187e+06 1.23463124e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 91118 points with origin [2.74337875e+06 1.23469437e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 76483 points with origin [2.74344187e+06 1.23469437e+06 2.07079058e+03]
+        6: Internal node at depth 2 has 7 children and 1320426 points ([2.74300000e+06 1.23475749e+06 1.88141747e+03])
+            0: Internal node at depth 3 has 1 children and 22155 points ([2.74300000e+06 1.23475749e+06 1.88141747e+03])
+                6: Leaf node at depth 4 has 22155 points with origin [2.74300000e+06 1.23482062e+06 1.94454184e+03]
+            2: Internal node at depth 3 has 7 children and 321301 points ([2.74300000e+06 1.23488374e+06 1.88141747e+03])
+                0: Leaf node at depth 4 has 8495 points with origin [2.74300000e+06 1.23488374e+06 1.88141747e+03]
+                2: Leaf node at depth 4 has 89985 points with origin [2.74300000e+06 1.23494687e+06 1.88141747e+03]
+                3: Leaf node at depth 4 has 14044 points with origin [2.74306312e+06 1.23494687e+06 1.88141747e+03]
+                4: Leaf node at depth 4 has 129831 points with origin [2.74300000e+06 1.23488374e+06 1.94454184e+03]
+                5: Leaf node at depth 4 has 28977 points with origin [2.74306312e+06 1.23488374e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 12903 points with origin [2.74300000e+06 1.23494687e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 37066 points with origin [2.74306312e+06 1.23494687e+06 1.94454184e+03]
+            3: Internal node at depth 3 has 3 children and 53386 points ([2.74312625e+06 1.23488374e+06 1.88141747e+03])
+                4: Leaf node at depth 4 has 1432 points with origin [2.74312625e+06 1.23488374e+06 1.94454184e+03]
+                6: Leaf node at depth 4 has 49901 points with origin [2.74312625e+06 1.23494687e+06 1.94454184e+03]
+                7: Leaf node at depth 4 has 2053 points with origin [2.74318937e+06 1.23494687e+06 1.94454184e+03]
+            4: Internal node at depth 3 has 8 children and 372100 points ([2.74300000e+06 1.23475749e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 47342 points with origin [2.74300000e+06 1.23475749e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 26315 points with origin [2.74306312e+06 1.23475749e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 110035 points with origin [2.74300000e+06 1.23482062e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 70845 points with origin [2.74306312e+06 1.23482062e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 47072 points with origin [2.74300000e+06 1.23475749e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 43293 points with origin [2.74306312e+06 1.23475749e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 1445 points with origin [2.74300000e+06 1.23482062e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 25753 points with origin [2.74306312e+06 1.23482062e+06 2.07079058e+03]
+            5: Internal node at depth 3 has 6 children and 269545 points ([2.74312625e+06 1.23475749e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 5387 points with origin [2.74312625e+06 1.23475749e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 10477 points with origin [2.74312625e+06 1.23482062e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 97633 points with origin [2.74312625e+06 1.23475749e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 65381 points with origin [2.74318937e+06 1.23475749e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 68149 points with origin [2.74312625e+06 1.23482062e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 22518 points with origin [2.74318937e+06 1.23482062e+06 2.07079058e+03]
+            6: Internal node at depth 3 has 2 children and 51589 points ([2.74300000e+06 1.23488374e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 7862 points with origin [2.74300000e+06 1.23488374e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 43727 points with origin [2.74306312e+06 1.23488374e+06 2.00766621e+03]
+            7: Internal node at depth 3 has 7 children and 230350 points ([2.74312625e+06 1.23488374e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 60518 points with origin [2.74312625e+06 1.23488374e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 11880 points with origin [2.74318937e+06 1.23488374e+06 2.00766621e+03]
+                2: Leaf node at depth 4 has 17226 points with origin [2.74312625e+06 1.23494687e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 53327 points with origin [2.74318937e+06 1.23494687e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 9138 points with origin [2.74312625e+06 1.23488374e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 67973 points with origin [2.74318937e+06 1.23488374e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 10288 points with origin [2.74318937e+06 1.23494687e+06 2.07079058e+03]
+        7: Internal node at depth 2 has 4 children and 319256 points ([2.74325250e+06 1.23475749e+06 1.88141747e+03])
+            4: Internal node at depth 3 has 2 children and 48000 points ([2.74325250e+06 1.23475749e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 19855 points with origin [2.74325250e+06 1.23475749e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 28145 points with origin [2.74331562e+06 1.23475749e+06 2.07079058e+03]
+            5: Internal node at depth 3 has 2 children and 61642 points ([2.74337875e+06 1.23475749e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 29948 points with origin [2.74337875e+06 1.23475749e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 31694 points with origin [2.74344187e+06 1.23475749e+06 2.07079058e+03]
+            6: Internal node at depth 3 has 5 children and 109775 points ([2.74325250e+06 1.23488374e+06 2.00766621e+03])
+                2: Leaf node at depth 4 has 10022 points with origin [2.74325250e+06 1.23494687e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 426 points with origin [2.74331562e+06 1.23494687e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 10894 points with origin [2.74325250e+06 1.23488374e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 59197 points with origin [2.74325250e+06 1.23494687e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 29236 points with origin [2.74331562e+06 1.23494687e+06 2.07079058e+03]
+            7: Internal node at depth 3 has 4 children and 99839 points ([2.74337875e+06 1.23488374e+06 2.00766621e+03])
+                2: Leaf node at depth 4 has 184 points with origin [2.74337875e+06 1.23494687e+06 2.00766621e+03]
+                3: Leaf node at depth 4 has 2 points with origin [2.74344187e+06 1.23494687e+06 2.00766621e+03]
+                6: Leaf node at depth 4 has 50727 points with origin [2.74337875e+06 1.23494687e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 48926 points with origin [2.74344187e+06 1.23494687e+06 2.07079058e+03]
+    3: Internal node at depth 1 has 3 children and 1992669 points ([2.74350499e+06 1.23450499e+06 1.62892000e+03])
+        4: Internal node at depth 2 has 4 children and 1216369 points ([2.74350499e+06 1.23450499e+06 1.88141747e+03])
+            4: Internal node at depth 3 has 4 children and 316705 points ([2.74350499e+06 1.23450499e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 77800 points with origin [2.74350499e+06 1.23450499e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 72999 points with origin [2.74356812e+06 1.23450499e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 88206 points with origin [2.74350499e+06 1.23456812e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 77700 points with origin [2.74356812e+06 1.23456812e+06 2.07079058e+03]
+            5: Internal node at depth 3 has 6 children and 246022 points ([2.74363124e+06 1.23450499e+06 2.00766621e+03])
+                0: Leaf node at depth 4 has 2996 points with origin [2.74363124e+06 1.23450499e+06 2.00766621e+03]
+                1: Leaf node at depth 4 has 20778 points with origin [2.74369437e+06 1.23450499e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 55738 points with origin [2.74363124e+06 1.23450499e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 41056 points with origin [2.74369437e+06 1.23450499e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 58254 points with origin [2.74363124e+06 1.23456812e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 67200 points with origin [2.74369437e+06 1.23456812e+06 2.07079058e+03]
+            6: Internal node at depth 3 has 4 children and 338837 points ([2.74350499e+06 1.23463124e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 77798 points with origin [2.74350499e+06 1.23463124e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 82907 points with origin [2.74356812e+06 1.23463124e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 81775 points with origin [2.74350499e+06 1.23469437e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 96357 points with origin [2.74356812e+06 1.23469437e+06 2.07079058e+03]
+            7: Internal node at depth 3 has 4 children and 314805 points ([2.74363124e+06 1.23463124e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 85188 points with origin [2.74363124e+06 1.23463124e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 65592 points with origin [2.74369437e+06 1.23463124e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 87324 points with origin [2.74363124e+06 1.23469437e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 76701 points with origin [2.74369437e+06 1.23469437e+06 2.07079058e+03]
+        5: Internal node at depth 2 has 3 children and 261649 points ([2.74375749e+06 1.23450499e+06 1.88141747e+03])
+            4: Internal node at depth 3 has 2 children and 88526 points ([2.74375749e+06 1.23450499e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 53519 points with origin [2.74375749e+06 1.23450499e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 35007 points with origin [2.74375749e+06 1.23456812e+06 2.07079058e+03]
+            5: Internal node at depth 3 has 5 children and 165014 points ([2.74388374e+06 1.23450499e+06 2.00766621e+03])
+                1: Leaf node at depth 4 has 266 points with origin [2.74394687e+06 1.23450499e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 44051 points with origin [2.74388374e+06 1.23450499e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 87292 points with origin [2.74394687e+06 1.23450499e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 507 points with origin [2.74388374e+06 1.23456812e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 32898 points with origin [2.74394687e+06 1.23456812e+06 2.07079058e+03]
+            6: Internal node at depth 3 has 1 children and 8109 points ([2.74375749e+06 1.23463124e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 8109 points with origin [2.74375749e+06 1.23463124e+06 2.07079058e+03]
+        6: Internal node at depth 2 has 3 children and 514651 points ([2.74350499e+06 1.23475749e+06 1.88141747e+03])
+            4: Internal node at depth 3 has 4 children and 255681 points ([2.74350499e+06 1.23475749e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 106764 points with origin [2.74350499e+06 1.23475749e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 89918 points with origin [2.74356812e+06 1.23475749e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 17668 points with origin [2.74350499e+06 1.23482062e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 41331 points with origin [2.74356812e+06 1.23482062e+06 2.07079058e+03]
+            5: Internal node at depth 3 has 4 children and 191230 points ([2.74363124e+06 1.23475749e+06 2.00766621e+03])
+                4: Leaf node at depth 4 has 95299 points with origin [2.74363124e+06 1.23475749e+06 2.07079058e+03]
+                5: Leaf node at depth 4 has 43598 points with origin [2.74369437e+06 1.23475749e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 46218 points with origin [2.74363124e+06 1.23482062e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 6115 points with origin [2.74369437e+06 1.23482062e+06 2.07079058e+03]
+            6: Internal node at depth 3 has 4 children and 67740 points ([2.74350499e+06 1.23488374e+06 2.00766621e+03])
+                2: Leaf node at depth 4 has 1747 points with origin [2.74350499e+06 1.23494687e+06 2.00766621e+03]
+                4: Leaf node at depth 4 has 1855 points with origin [2.74350499e+06 1.23488374e+06 2.07079058e+03]
+                6: Leaf node at depth 4 has 52427 points with origin [2.74350499e+06 1.23494687e+06 2.07079058e+03]
+                7: Leaf node at depth 4 has 11711 points with origin [2.74356812e+06 1.23494687e+06 2.07079058e+03]
+    5: Internal node at depth 1 has 1 children and 230034 points ([2.74350499e+06 1.23400000e+06 2.13391495e+03])
+        3: Internal node at depth 2 has 3 children and 230034 points ([2.74375749e+06 1.23425250e+06 2.13391495e+03])
+            0: Internal node at depth 3 has 3 children and 34233 points ([2.74375749e+06 1.23425250e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 1809 points with origin [2.74375749e+06 1.23425250e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 26189 points with origin [2.74375749e+06 1.23431562e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 6235 points with origin [2.74382062e+06 1.23431562e+06 2.13391495e+03]
+            2: Internal node at depth 3 has 4 children and 174379 points ([2.74375749e+06 1.23437875e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 22581 points with origin [2.74375749e+06 1.23437875e+06 2.13391495e+03]
+                1: Leaf node at depth 4 has 27903 points with origin [2.74382062e+06 1.23437875e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 27686 points with origin [2.74375749e+06 1.23444187e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 96209 points with origin [2.74382062e+06 1.23444187e+06 2.13391495e+03]
+            3: Internal node at depth 3 has 1 children and 21422 points ([2.74388374e+06 1.23437875e+06 2.13391495e+03])
+                2: Leaf node at depth 4 has 21422 points with origin [2.74388374e+06 1.23444187e+06 2.13391495e+03]
+    6: Internal node at depth 1 has 3 children and 1059210 points ([2.74300000e+06 1.23450499e+06 2.13391495e+03])
+        1: Internal node at depth 2 has 1 children and 11839 points ([2.74325250e+06 1.23450499e+06 2.13391495e+03])
+            1: Internal node at depth 3 has 2 children and 11839 points ([2.74337875e+06 1.23450499e+06 2.13391495e+03])
+                1: Leaf node at depth 4 has 180 points with origin [2.74344187e+06 1.23450499e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 11659 points with origin [2.74344187e+06 1.23456812e+06 2.13391495e+03]
+        2: Internal node at depth 2 has 2 children and 99863 points ([2.74300000e+06 1.23475749e+06 2.13391495e+03])
+            1: Internal node at depth 3 has 2 children and 87241 points ([2.74312625e+06 1.23475749e+06 2.13391495e+03])
+                1: Leaf node at depth 4 has 14734 points with origin [2.74318937e+06 1.23475749e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 72507 points with origin [2.74318937e+06 1.23482062e+06 2.13391495e+03]
+            3: Internal node at depth 3 has 1 children and 12622 points ([2.74312625e+06 1.23488374e+06 2.13391495e+03])
+                1: Leaf node at depth 4 has 12622 points with origin [2.74318937e+06 1.23488374e+06 2.13391495e+03]
+        3: Internal node at depth 2 has 4 children and 947508 points ([2.74325250e+06 1.23475749e+06 2.13391495e+03])
+            0: Internal node at depth 3 has 6 children and 273732 points ([2.74325250e+06 1.23475749e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 67361 points with origin [2.74325250e+06 1.23475749e+06 2.13391495e+03]
+                1: Leaf node at depth 4 has 38476 points with origin [2.74331562e+06 1.23475749e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 82865 points with origin [2.74325250e+06 1.23482062e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 73852 points with origin [2.74331562e+06 1.23482062e+06 2.13391495e+03]
+                6: Leaf node at depth 4 has 8777 points with origin [2.74325250e+06 1.23482062e+06 2.19703932e+03]
+                7: Leaf node at depth 4 has 2401 points with origin [2.74331562e+06 1.23482062e+06 2.19703932e+03]
+            1: Internal node at depth 3 has 4 children and 269590 points ([2.74337875e+06 1.23475749e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 44692 points with origin [2.74337875e+06 1.23475749e+06 2.13391495e+03]
+                1: Leaf node at depth 4 has 52951 points with origin [2.74344187e+06 1.23475749e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 63688 points with origin [2.74337875e+06 1.23482062e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 108259 points with origin [2.74344187e+06 1.23482062e+06 2.13391495e+03]
+            2: Internal node at depth 3 has 6 children and 233276 points ([2.74325250e+06 1.23488374e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 73519 points with origin [2.74325250e+06 1.23488374e+06 2.13391495e+03]
+                1: Leaf node at depth 4 has 45012 points with origin [2.74331562e+06 1.23488374e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 15805 points with origin [2.74325250e+06 1.23494687e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 44865 points with origin [2.74331562e+06 1.23494687e+06 2.13391495e+03]
+                4: Leaf node at depth 4 has 10487 points with origin [2.74325250e+06 1.23488374e+06 2.19703932e+03]
+                5: Leaf node at depth 4 has 43588 points with origin [2.74331562e+06 1.23488374e+06 2.19703932e+03]
+            3: Internal node at depth 3 has 7 children and 170910 points ([2.74337875e+06 1.23488374e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 55815 points with origin [2.74337875e+06 1.23488374e+06 2.13391495e+03]
+                1: Leaf node at depth 4 has 65599 points with origin [2.74344187e+06 1.23488374e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 19151 points with origin [2.74337875e+06 1.23494687e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 14040 points with origin [2.74344187e+06 1.23494687e+06 2.13391495e+03]
+                4: Leaf node at depth 4 has 15654 points with origin [2.74337875e+06 1.23488374e+06 2.19703932e+03]
+                5: Leaf node at depth 4 has 622 points with origin [2.74344187e+06 1.23488374e+06 2.19703932e+03]
+                7: Leaf node at depth 4 has 29 points with origin [2.74344187e+06 1.23494687e+06 2.19703932e+03]
+    7: Internal node at depth 1 has 5 children and 3034252 points ([2.74350499e+06 1.23450499e+06 2.13391495e+03])
+        0: Internal node at depth 2 has 1 children and 15782 points ([2.74350499e+06 1.23450499e+06 2.13391495e+03])
+            3: Internal node at depth 3 has 2 children and 15782 points ([2.74363124e+06 1.23463124e+06 2.13391495e+03])
+                1: Leaf node at depth 4 has 971 points with origin [2.74369437e+06 1.23463124e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 14811 points with origin [2.74369437e+06 1.23469437e+06 2.13391495e+03]
+        1: Internal node at depth 2 has 6 children and 1009890 points ([2.74375749e+06 1.23450499e+06 2.13391495e+03])
+            0: Internal node at depth 3 has 7 children and 243555 points ([2.74375749e+06 1.23450499e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 23194 points with origin [2.74375749e+06 1.23450499e+06 2.13391495e+03]
+                1: Leaf node at depth 4 has 52183 points with origin [2.74382062e+06 1.23450499e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 22351 points with origin [2.74375749e+06 1.23456812e+06 2.13391495e+03]
+                4: Leaf node at depth 4 has 3489 points with origin [2.74375749e+06 1.23450499e+06 2.19703932e+03]
+                5: Leaf node at depth 4 has 41991 points with origin [2.74382062e+06 1.23450499e+06 2.19703932e+03]
+                6: Leaf node at depth 4 has 19835 points with origin [2.74375749e+06 1.23456812e+06 2.19703932e+03]
+                7: Leaf node at depth 4 has 80512 points with origin [2.74382062e+06 1.23456812e+06 2.19703932e+03]
+            1: Internal node at depth 3 has 6 children and 222911 points ([2.74388374e+06 1.23450499e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 59537 points with origin [2.74388374e+06 1.23450499e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 45157 points with origin [2.74388374e+06 1.23456812e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 65047 points with origin [2.74394687e+06 1.23456812e+06 2.13391495e+03]
+                4: Leaf node at depth 4 has 1158 points with origin [2.74388374e+06 1.23450499e+06 2.19703932e+03]
+                6: Leaf node at depth 4 has 49269 points with origin [2.74388374e+06 1.23456812e+06 2.19703932e+03]
+                7: Leaf node at depth 4 has 2743 points with origin [2.74394687e+06 1.23456812e+06 2.19703932e+03]
+            2: Internal node at depth 3 has 7 children and 183864 points ([2.74375749e+06 1.23463124e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 49644 points with origin [2.74375749e+06 1.23463124e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 66147 points with origin [2.74375749e+06 1.23469437e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 897 points with origin [2.74382062e+06 1.23469437e+06 2.13391495e+03]
+                4: Leaf node at depth 4 has 28823 points with origin [2.74375749e+06 1.23463124e+06 2.19703932e+03]
+                5: Leaf node at depth 4 has 18830 points with origin [2.74382062e+06 1.23463124e+06 2.19703932e+03]
+                6: Leaf node at depth 4 has 11157 points with origin [2.74375749e+06 1.23469437e+06 2.19703932e+03]
+                7: Leaf node at depth 4 has 8366 points with origin [2.74382062e+06 1.23469437e+06 2.19703932e+03]
+            3: Internal node at depth 3 has 5 children and 133174 points ([2.74388374e+06 1.23463124e+06 2.13391495e+03])
+                1: Leaf node at depth 4 has 21921 points with origin [2.74394687e+06 1.23463124e+06 2.13391495e+03]
+                4: Leaf node at depth 4 has 33181 points with origin [2.74388374e+06 1.23463124e+06 2.19703932e+03]
+                5: Leaf node at depth 4 has 54524 points with origin [2.74394687e+06 1.23463124e+06 2.19703932e+03]
+                6: Leaf node at depth 4 has 2856 points with origin [2.74388374e+06 1.23469437e+06 2.19703932e+03]
+                7: Leaf node at depth 4 has 20692 points with origin [2.74394687e+06 1.23469437e+06 2.19703932e+03]
+            6: Internal node at depth 3 has 5 children and 119735 points ([2.74375749e+06 1.23463124e+06 2.26016369e+03])
+                0: Leaf node at depth 4 has 89 points with origin [2.74375749e+06 1.23463124e+06 2.26016369e+03]
+                1: Leaf node at depth 4 has 53149 points with origin [2.74382062e+06 1.23463124e+06 2.26016369e+03]
+                2: Leaf node at depth 4 has 2086 points with origin [2.74375749e+06 1.23469437e+06 2.26016369e+03]
+                3: Leaf node at depth 4 has 63745 points with origin [2.74382062e+06 1.23469437e+06 2.26016369e+03]
+                7: Leaf node at depth 4 has 666 points with origin [2.74382062e+06 1.23469437e+06 2.32328806e+03]
+            7: Internal node at depth 3 has 6 children and 106651 points ([2.74388374e+06 1.23463124e+06 2.26016369e+03])
+                0: Leaf node at depth 4 has 19381 points with origin [2.74388374e+06 1.23463124e+06 2.26016369e+03]
+                2: Leaf node at depth 4 has 26651 points with origin [2.74388374e+06 1.23469437e+06 2.26016369e+03]
+                3: Leaf node at depth 4 has 16269 points with origin [2.74394687e+06 1.23469437e+06 2.26016369e+03]
+                4: Leaf node at depth 4 has 102 points with origin [2.74388374e+06 1.23463124e+06 2.32328806e+03]
+                6: Leaf node at depth 4 has 37102 points with origin [2.74388374e+06 1.23469437e+06 2.32328806e+03]
+                7: Leaf node at depth 4 has 7146 points with origin [2.74394687e+06 1.23469437e+06 2.32328806e+03]
+        2: Internal node at depth 2 has 5 children and 841990 points ([2.74350499e+06 1.23475749e+06 2.13391495e+03])
+            0: Internal node at depth 3 has 3 children and 132944 points ([2.74350499e+06 1.23475749e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 2371 points with origin [2.74350499e+06 1.23475749e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 75020 points with origin [2.74350499e+06 1.23482062e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 55553 points with origin [2.74356812e+06 1.23482062e+06 2.13391495e+03]
+            1: Internal node at depth 3 has 3 children and 189172 points ([2.74363124e+06 1.23475749e+06 2.13391495e+03])
+                1: Leaf node at depth 4 has 57893 points with origin [2.74369437e+06 1.23475749e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 47194 points with origin [2.74363124e+06 1.23482062e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 84085 points with origin [2.74369437e+06 1.23482062e+06 2.13391495e+03]
+            2: Internal node at depth 3 has 5 children and 214201 points ([2.74350499e+06 1.23488374e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 72491 points with origin [2.74350499e+06 1.23488374e+06 2.13391495e+03]
+                1: Leaf node at depth 4 has 80209 points with origin [2.74356812e+06 1.23488374e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 7361 points with origin [2.74350499e+06 1.23494687e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 47542 points with origin [2.74356812e+06 1.23494687e+06 2.13391495e+03]
+                7: Leaf node at depth 4 has 6598 points with origin [2.74356812e+06 1.23494687e+06 2.19703932e+03]
+            3: Internal node at depth 3 has 7 children and 305625 points ([2.74363124e+06 1.23488374e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 93935 points with origin [2.74363124e+06 1.23488374e+06 2.13391495e+03]
+                1: Leaf node at depth 4 has 71205 points with origin [2.74369437e+06 1.23488374e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 27050 points with origin [2.74363124e+06 1.23494687e+06 2.13391495e+03]
+                3: Leaf node at depth 4 has 59 points with origin [2.74369437e+06 1.23494687e+06 2.13391495e+03]
+                5: Leaf node at depth 4 has 14478 points with origin [2.74369437e+06 1.23488374e+06 2.19703932e+03]
+                6: Leaf node at depth 4 has 34065 points with origin [2.74363124e+06 1.23494687e+06 2.19703932e+03]
+                7: Leaf node at depth 4 has 64833 points with origin [2.74369437e+06 1.23494687e+06 2.19703932e+03]
+            7: Internal node at depth 3 has 1 children and 48 points ([2.74363124e+06 1.23488374e+06 2.26016369e+03])
+        3: Internal node at depth 2 has 6 children and 1038482 points ([2.74375749e+06 1.23475749e+06 2.13391495e+03])
+            0: Internal node at depth 3 has 7 children and 205237 points ([2.74375749e+06 1.23475749e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 74612 points with origin [2.74375749e+06 1.23475749e+06 2.13391495e+03]
+                1: Leaf node at depth 4 has 28 points with origin [2.74382062e+06 1.23475749e+06 2.13391495e+03]
+                2: Leaf node at depth 4 has 61977 points with origin [2.74375749e+06 1.23482062e+06 2.13391495e+03]
+                4: Leaf node at depth 4 has 8350 points with origin [2.74375749e+06 1.23475749e+06 2.19703932e+03]
+                5: Leaf node at depth 4 has 5313 points with origin [2.74382062e+06 1.23475749e+06 2.19703932e+03]
+                6: Leaf node at depth 4 has 16666 points with origin [2.74375749e+06 1.23482062e+06 2.19703932e+03]
+                7: Leaf node at depth 4 has 38291 points with origin [2.74382062e+06 1.23482062e+06 2.19703932e+03]
+            2: Internal node at depth 3 has 5 children and 295441 points ([2.74375749e+06 1.23488374e+06 2.13391495e+03])
+                0: Leaf node at depth 4 has 15517 points with origin [2.74375749e+06 1.23488374e+06 2.13391495e+03]
+                4: Leaf node at depth 4 has 61400 points with origin [2.74375749e+06 1.23488374e+06 2.19703932e+03]
+                5: Leaf node at depth 4 has 77321 points with origin [2.74382062e+06 1.23488374e+06 2.19703932e+03]
+                6: Leaf node at depth 4 has 71164 points with origin [2.74375749e+06 1.23494687e+06 2.19703932e+03]
+                7: Leaf node at depth 4 has 70039 points with origin [2.74382062e+06 1.23494687e+06 2.19703932e+03]
+            4: Internal node at depth 3 has 5 children and 103656 points ([2.74375749e+06 1.23475749e+06 2.26016369e+03])
+                0: Leaf node at depth 4 has 1719 points with origin [2.74375749e+06 1.23475749e+06 2.26016369e+03]
+                1: Leaf node at depth 4 has 54980 points with origin [2.74382062e+06 1.23475749e+06 2.26016369e+03]
+                3: Leaf node at depth 4 has 21957 points with origin [2.74382062e+06 1.23482062e+06 2.26016369e+03]
+                5: Leaf node at depth 4 has 8444 points with origin [2.74382062e+06 1.23475749e+06 2.32328806e+03]
+                7: Leaf node at depth 4 has 16556 points with origin [2.74382062e+06 1.23482062e+06 2.32328806e+03]
+            5: Internal node at depth 3 has 6 children and 152500 points ([2.74388374e+06 1.23475749e+06 2.26016369e+03])
+                0: Leaf node at depth 4 has 1687 points with origin [2.74388374e+06 1.23475749e+06 2.26016369e+03]
+                1: Leaf node at depth 4 has 1203 points with origin [2.74394687e+06 1.23475749e+06 2.26016369e+03]
+                2: Leaf node at depth 4 has 2630 points with origin [2.74388374e+06 1.23482062e+06 2.26016369e+03]
+                4: Leaf node at depth 4 has 62977 points with origin [2.74388374e+06 1.23475749e+06 2.32328806e+03]
+                5: Leaf node at depth 4 has 46001 points with origin [2.74394687e+06 1.23475749e+06 2.32328806e+03]
+                6: Leaf node at depth 4 has 38002 points with origin [2.74388374e+06 1.23482062e+06 2.32328806e+03]
+            6: Internal node at depth 3 has 6 children and 21996 points ([2.74375749e+06 1.23488374e+06 2.26016369e+03])
+                0: Leaf node at depth 4 has 184 points with origin [2.74375749e+06 1.23488374e+06 2.26016369e+03]
+                1: Leaf node at depth 4 has 11386 points with origin [2.74382062e+06 1.23488374e+06 2.26016369e+03]
+                2: Leaf node at depth 4 has 704 points with origin [2.74375749e+06 1.23494687e+06 2.26016369e+03]
+                3: Leaf node at depth 4 has 8588 points with origin [2.74382062e+06 1.23494687e+06 2.26016369e+03]
+                5: Leaf node at depth 4 has 417 points with origin [2.74382062e+06 1.23488374e+06 2.32328806e+03]
+                7: Leaf node at depth 4 has 717 points with origin [2.74382062e+06 1.23494687e+06 2.32328806e+03]
+            7: Internal node at depth 3 has 8 children and 259652 points ([2.74388374e+06 1.23488374e+06 2.26016369e+03])
+                0: Leaf node at depth 4 has 71165 points with origin [2.74388374e+06 1.23488374e+06 2.26016369e+03]
+                1: Leaf node at depth 4 has 1636 points with origin [2.74394687e+06 1.23488374e+06 2.26016369e+03]
+                2: Leaf node at depth 4 has 73469 points with origin [2.74388374e+06 1.23494687e+06 2.26016369e+03]
+                3: Leaf node at depth 4 has 33307 points with origin [2.74394687e+06 1.23494687e+06 2.26016369e+03]
+                4: Leaf node at depth 4 has 22308 points with origin [2.74388374e+06 1.23488374e+06 2.32328806e+03]
+                5: Leaf node at depth 4 has 35420 points with origin [2.74394687e+06 1.23488374e+06 2.32328806e+03]
+                6: Leaf node at depth 4 has 811 points with origin [2.74388374e+06 1.23494687e+06 2.32328806e+03]
+                7: Leaf node at depth 4 has 21536 points with origin [2.74394687e+06 1.23494687e+06 2.32328806e+03]
+        7: Internal node at depth 2 has 2 children and 128108 points ([2.74375749e+06 1.23475749e+06 2.38641243e+03])
+            1: Internal node at depth 3 has 5 children and 104547 points ([2.74388374e+06 1.23475749e+06 2.38641243e+03])
+                0: Leaf node at depth 4 has 2685 points with origin [2.74388374e+06 1.23475749e+06 2.38641243e+03]
+                1: Leaf node at depth 4 has 7020 points with origin [2.74394687e+06 1.23475749e+06 2.38641243e+03]
+                2: Leaf node at depth 4 has 27748 points with origin [2.74388374e+06 1.23482062e+06 2.38641243e+03]
+                3: Leaf node at depth 4 has 58545 points with origin [2.74394687e+06 1.23482062e+06 2.38641243e+03]
+                7: Leaf node at depth 4 has 8549 points with origin [2.74394687e+06 1.23482062e+06 2.44953679e+03]
+            3: Internal node at depth 3 has 4 children and 23561 points ([2.74388374e+06 1.23488374e+06 2.38641243e+03])
+                0: Leaf node at depth 4 has 684 points with origin [2.74388374e+06 1.23488374e+06 2.38641243e+03]
+                1: Leaf node at depth 4 has 22573 points with origin [2.74394687e+06 1.23488374e+06 2.38641243e+03]
+                2: Leaf node at depth 4 has 107 points with origin [2.74388374e+06 1.23494687e+06 2.38641243e+03]
+                3: Leaf node at depth 4 has 197 points with origin [2.74394687e+06 1.23494687e+06 2.38641243e+03]
