@@ -7,14 +7,15 @@ POINTS = read_las_data(FILE_PATH)[:1000]
 #   octree depth
 MAX_DEPTH = 16
 
-
+#   Initialize point cloud
 pcd = o3d.geometry.PointCloud()
+#   put points, into point cloud, and paint those points gray color
 pcd.points = o3d.utility.Vector3dVector(POINTS)
-#   boundingBox = o3d.geometry.AxisAlignedBoundingBox.create_from_points(pcd.points)
-#   downpcd = pcd.voxel_down_sample(voxel_size=0.05)
 pcd.paint_uniform_color([0.5, 0.5, 0.5])
 
+#   initialize octree
 octree = o3d.geometry.Octree(max_depth=MAX_DEPTH)
+#   put point cloud into octree, to make a structure
 octree.convert_from_point_cloud(pcd, size_expand=0.01)
 
 print("""
